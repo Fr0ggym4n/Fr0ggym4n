@@ -8,7 +8,6 @@
 👯 I’m looking to work in international web development.  
 🔭 Before i started dreaming about coding, i worked as a plumber (and had no idea what a terminal was).  
 ❤️ I am passionate about scuba diving, mountain hikes and good food 😋.
-### ⚒️ My tools
 
 #### 🧑🏻‍💻 Programming languages
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![zsh](https://img.shields.io/badge/%3E__-zsh-black?style=plastic&logo=zsh&logoColor=white)
