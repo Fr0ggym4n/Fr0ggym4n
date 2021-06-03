@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Charles! 👋
 
 <!--
 **Fr0ggym4n/Fr0ggym4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&layout=compact&theme=solarized-dark&show)](https://github.com/Fr0ggym4n/github-readme-stats)
 
-<!-- Stats -->
-[![Les Stats GitHub de Charles](https://github-readme-stats.vercel.app/api?username=Fr0ggym4n&theme=solarized-dark&show_icons=true)](https://github.com/Fr0ggym4n/github-readme-stats,)
+#### Gihub stats
+
+<!-- Languages -->
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&layout=compact&theme=solarized-dark&show)](https://github.com/Fr0ggym4n/github-readme-stats)
+><!-- Stats -->
+>[![Les Stats GitHub de Charles](https://github-readme-stats.vercel.app/api?username=Fr0ggym4n&theme=solarized-dark&show_icons=true)](https://github.com/Fr0ggym4n/github-readme-stats,)
