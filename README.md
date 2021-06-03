@@ -6,7 +6,7 @@
 
 🎓 I learned to code with [The Hacking Project](https://www.thehackingproject.org/) bootcamp for 6 months.  
 👯 I’m looking to work in international web development.  
-🔭 Before i started dreaming about coding, i worked as a plumber (and had no idea what a terminal was).
+🔭 Before i started dreaming about coding, i worked as a plumber (and had no idea what a terminal was).  
 ❤️ I am passionate about scuba diving, mountain hikes and good food 😋.
 ### ⚒️ My tools
 
