@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 #### Gihub stats
 <details>
-<summary>📊  Some Github Profile Stats</summary>
-<!-- Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&layout=compact&theme=solarized-dark&show)](https://github.com/anuraghazra/github-readme-stats)
-<!-- Stats -->
-[![Les Stats GitHub de Charles](https://github-readme-stats.vercel.app/api?username=Fr0ggym4n&theme=solarized-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats,)
+  <summary>📊  Some Github Profile Stats</summary>
+  <!-- Languages -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&layout=compact&theme=solarized-dark&show)(https://github.com/anuraghazra/github-readme-stats)
+  <!-- Stats -->
+  ![Les Stats GitHub de Charles](https://github-readme-stats.vercel.app/api?username=Fr0ggym4n&theme=solarized-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats,)
 </details>
