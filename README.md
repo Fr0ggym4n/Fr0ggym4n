@@ -1,19 +1,13 @@
-### Hi there, I'm Charles! 👋
+## Hi there, I'm Charles! 👋
 
-<!--
-**Fr0ggym4n/Fr0ggym4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***I'm fullstack developer based in Paris, France.***
 
-Here are some ideas to get you started:
+### About me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I learned to code with [The Hacking Project](https://www.thehackingproject.org/) bootcamp for 6 months.  
+👯 I’m looking to work in international web development.  
+🔭 Before i started dreaming about coding, i worked as a plumber (and had no idea what a terminal was).
+❤️ I am passionate about scuba diving, mountain hikes and good food 😋.
 ### ⚒️ My tools
 
 #### 🧑🏻‍💻 Programming languages
@@ -27,9 +21,14 @@ Here are some ideas to get you started:
 #### 🗄 Databases and cloud hosting
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
+
 #### 💻 Software and tools
 
-![IOS](https://img.shields.io/badge/iOS-000000?style=plsatic&logo=ios&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?plastic&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=plsatic&logo=ios&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?plastic&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=red) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+
+#### ✅ Testing tools
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=plastic&logo=Jasmine&logoColor=white) 
 ### Gihub stats
 
 <details>
