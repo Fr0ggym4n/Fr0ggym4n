@@ -1,6 +1,6 @@
 ## Hi there, I'm Charles! 👋
 
-***I'm fullstack developer based France.***
+***I'm fullstack developer based in France.***
 
 ### About me 
 
