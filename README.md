@@ -31,7 +31,7 @@
 ### Gihub stats
   
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&theme=solarized-dark&show)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&theme=dark&show)
 
 [![https://github-readme-stats.vercel.app/api?username=Fr0ggym4n&theme=solarized-dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=Fr0ggym4n&theme=solarized-dark&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats,)
 
