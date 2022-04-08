@@ -29,14 +29,9 @@
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=plastic&logo=Jasmine&logoColor=white) 
 ### Gihub stats
-
-<details>
-<summary> 📊 Github Profile Stats </summary>
-
   
 
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&layout=compact&theme=solarized-dark&show](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr0ggym4n&layout=compact&theme=solarized-dark&show)
 
 [![https://github-readme-stats.vercel.app/api?username=Fr0ggym4n&theme=solarized-dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=Fr0ggym4n&theme=solarized-dark&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats,)
 
-</details>
